@@ -1,7 +1,5 @@
-host: '10.200.203.154'
-# login: 'Data_Partners'
-# password: 'DataPartners#2023'
-login: 'cbm_project'
-password: 'p97coZ63'
+host: 'host_code'
+login: 'example_login
+password: 'example_password'
 port: '1521'
-service_name: 'dwhdb_pri'
+service_name: 'service_name'
