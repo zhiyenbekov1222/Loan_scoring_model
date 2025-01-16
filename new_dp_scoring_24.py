@@ -4,7 +4,7 @@ LightGBM 4.5.0. gradient boosting algorithm.
 
 Owner: Zhalgas Zhieyenbekov
 zhalgas.zhiyenbekov@tele2.kz
-Date last training:10.10.2025
+Date last training:10.10.2024
 '''
 
 import pandas as pd
@@ -277,7 +277,7 @@ class dp_model:
 
         def run(self):
                 '''
-                The main function that executes all procedures-1
+                The main function that executes all procedures-1.
                 '''
 
                 print('Function Run successfully called!')
